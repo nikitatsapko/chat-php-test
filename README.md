@@ -47,4 +47,8 @@
 ![image](https://github.com/nikitatsapko/chat-php-test/assets/34684142/7fb79aaf-92ea-40c2-92c0-0a9943ddc15b)
 
 
-
+Техническая информация. Для запуска необходимо:
+  1. Экспортировать SQL-файл
+  2. Запустить сокет ``php core/template/chat/socket.php"
+  3. Авторизоваться под любым из пользователей: user, moder, admin
+     Пароль у всех одинаковый: chat
